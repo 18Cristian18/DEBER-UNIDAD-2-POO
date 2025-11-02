@@ -45,3 +45,7 @@ Se han añadido las siguientes clases y funcionalidades al proyecto original:
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+
+### Diagrama de Clases
+
+![Diagrama de Clases](imagenes_diagrama/diagrama_clases.png)
